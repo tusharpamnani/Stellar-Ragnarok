@@ -4,3 +4,6 @@
 [submodule "Asgardian-Architects/StellaFi"]
 	path = Asgardian-Architects/StellaFi
 	url = https://github.com/vynride/stellafi-frontend.git
+[submodule "deadpool-validators/stellar-insurance"]
+	path = deadpool-validators/stellar-insurance
+	url = git@github.com:piyush-json/stellar-insurance.git
